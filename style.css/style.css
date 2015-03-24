@@ -1,0 +1,12 @@
+body{
+	background: #E80C7A
+}
+#face{
+	position: absolute;
+	left: 20px;
+	right: 20px;
+	top: 20px;
+	bottom: ;
+	background: FF530D;
+	height: 500px;
+}

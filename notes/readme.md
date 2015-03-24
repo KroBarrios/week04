@@ -27,3 +27,4 @@ Research the options of the following html, show the class the tags and how it w
 
 #HOMEWORK
  - Create an interactive mosaic "creature" out of multiple images/html elements
+ - 
